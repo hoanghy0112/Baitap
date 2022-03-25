@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bai002.cpp">
+    <ClCompile Include="Bai049.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai050.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
